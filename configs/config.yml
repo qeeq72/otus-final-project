@@ -1,0 +1,11 @@
+gatherers:
+  loadavg:
+    enable: true
+  usage_cpu:
+    enable: false
+  disks:
+    enable: false
+  top_talkers:
+    enable: false
+  network:
+    enable: false
